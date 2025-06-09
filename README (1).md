@@ -134,6 +134,22 @@ Here are some ideas to get you started:
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
+    <a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="generativeai" width="40" height="40"/>
+</a>
+    <!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+</a>
+    <!-- Excel -->
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
+</a>
+
+<!-- Statistics (R as proxy) -->
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="statistics" width="40" height="40"/>
+</a>
 </p>
 
 # 📊 GitHub Stats:

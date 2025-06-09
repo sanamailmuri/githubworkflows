@@ -134,8 +134,9 @@ Here are some ideas to get you started:
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
-    <a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="generativeai" width="40" height="40"/>
+ <!-- Generative AI (OpenAI Icon) -->
+<a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <img src="https://openai.com/favicon.ico" alt="openai" width="40" height="40"/>
 </a>
     <!-- Power BI -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
